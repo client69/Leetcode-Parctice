@@ -18,7 +18,7 @@
 <!-- I am _Sachin Verma_ a student of Netaji Subhas Institute of Technology, Delhi,
 an aspiring **Web Developer** and **Competitive Programmer**. -->
 
-I have compiled many useful links for **Data Structures and Algorithms** questions and their solutions.  
+I have compiled mny useful links for **Data Structures and Algorithms** questions and their solutions.  
 I have also listed the **Theory Subjects**, which are often ignored by students but must have vast knowledge of it to help them in their interviews.  
 I have also included the **Placement Ready Roadmap**, from `beginner level -> interview ready candidate`
 
